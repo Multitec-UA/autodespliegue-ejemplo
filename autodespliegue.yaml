@@ -1,0 +1,7 @@
+name: ejemplo
+dockerfile: ./Dockerfile
+memory: 512Mi
+access: members
+firestore: true
+env:
+  TZ: Europe/Madrid

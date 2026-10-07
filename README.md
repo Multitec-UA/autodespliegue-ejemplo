@@ -1,6 +1,6 @@
 # Ejemplo · Autodespliegue MT
 
-La aplicación más pequeña que funciona en [despliega.multitecua.com](https://despliega.multitecua.com):
+La aplicación más pequeña que funciona en [deploy.multitecua.com](https://deploy.multitecua.com):
 una página que cuenta sus visitas en la base de datos Firestore del propio servicio.
 
 Úsala como plantilla: **Use this template** en GitHub, cambia `main.py`, y conecta tu
